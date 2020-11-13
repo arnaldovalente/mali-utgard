@@ -33,4 +33,6 @@ extern struct platform_device *mali_platform_device;
 }
 #endif
 
+#define HAVE_UNLOCKED_IOCTL 1
+
 #endif /* __MALI_KERNEL_LINUX_H__ */
